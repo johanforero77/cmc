@@ -1,0 +1,64 @@
+
+body    {
+background-color: #000000;
+color: #FFFFFF;
+padding: 20px;
+font: 18px Arial, Tahoma;
+}
+
+
+
+
+h1 {
+	color: red;
+	font-family: Arial;
+	font-size: Large;
+}
+
+p {
+	color: gray;
+	font-family: Verdana;
+	font-size: medium;
+}
+
+.Mango {
+	background-color: #8FF500;
+}
+
+.Banana {
+	background-color: #BABC72;
+}
+
+.Manzana {
+	background-color: #C7372F;
+}
+.Mora {
+	background-color: #572364;
+}
+
+.Piña {
+	background-color: #553C0F;
+}
+
+.Sandia {
+	background-color: #f19398;
+}
+
+.Limon {
+	background-color: #FFF700;
+}
+
+.Fresa {
+	background-color: #d53032;
+}
+
+.Ciruela {
+	background-color: #683648;
+}
+
+.Mani {
+	background-color: #ddaa7b;
+}
+
+
+
